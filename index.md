@@ -1,29 +1,19 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/lakshmir5041/Project1DevOps/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project is to demonstrate the continuous integration and delivery by building a Docker Jenkins Pipeline.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Tools used in this project
 
-# Header 1
-## Header 2
-### Header 3
+•	Docker: To build the application from a Dockerfile and push it to Docker Hub.
+•	Docker Hub: To store the Docker image.
+•	GitHub: To store the application code and track its revisions.
+•	Git: To connect and push files from the local system to GitHub.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
